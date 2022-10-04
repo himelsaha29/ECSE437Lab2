@@ -16,6 +16,23 @@
       "message": "Please review my beautiful code",
       "revId": "84e7feccb90f8b5c61adaf30d140ca3b85279877",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "126d166a_39dd18c3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020599
+      },
+      "writtenOn": "2022-10-04T02:10:07Z",
+      "side": 1,
+      "message": "Seems fine, great work, Approved!!",
+      "revId": "84e7feccb90f8b5c61adaf30d140ca3b85279877",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
